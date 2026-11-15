@@ -1,2 +1,2 @@
-# Kuche-app
+# Mykuche-app
 Finance
