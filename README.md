@@ -1,0 +1,2 @@
+# Kuche-app
+Finance
